@@ -4,7 +4,7 @@
 
 # This is an html and css beginners project, that was build coding along with the tutor. Javascript was used to make the interactive animated background which was copied from a free open source project on code pen.
 
-# NOTE THIS PROJECT IS AN HTML AND CSS PROJECT FOR BEGINNERS, AND ALL JAVASCRIPT INTERACTIONS WERE COPIED AND PASTED FROM CODE PEN.
+NOTE THIS PROJECT IS AN HTML AND CSS PROJECT FOR BEGINNERS, AND ALL JAVASCRIPT INTERACTIONS WERE COPIED AND PASTED FROM CODE PEN.
 
 # Every part of the project code contains an understanding of:
 
